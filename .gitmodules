@@ -1,3 +1,6 @@
 [submodule "SummaryBot"]
 	path = SummaryBot
 	url = https://github.com/aapertsev/SummaryBot.git
+[submodule "TG_chat_spam_detection_bot"]
+	path = TG_chat_spam_detection_bot
+	url = https://github.com/aapertsev/TG_chat_spam_detection_bot.git
